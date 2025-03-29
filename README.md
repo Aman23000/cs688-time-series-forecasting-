@@ -1,10 +1,3 @@
-| CS-688   | Web Minning and Graph Analysis       |
-|----------|--------------------------------------|
-| Name     | Aman Jain                            |
-| Date     | 04/29/2024                           |
-| Course   | Spring'2024                          |
-| Project  | Time Series Forcasting Platform      |
-
 # Time Series Forecasting Platform
 
 ## Project Overview
